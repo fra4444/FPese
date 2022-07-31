@@ -1,7 +1,7 @@
 package it.unibs.fp.mylib;
 import java.util.*;
 public class InputDati 
-{
+{//ciao
 	  private static Scanner lettore = creaScanner();
 	  
 	  private final static String ERRORE_FORMATO = "Attenzione: il dato inserito non e' nel formato corretto";

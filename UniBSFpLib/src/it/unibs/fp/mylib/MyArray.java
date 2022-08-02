@@ -80,9 +80,6 @@ public class MyArray {
 			break;
 			}
 		}
-		return index;//
+		return index;
 	}
-	
-	
-	
 }
